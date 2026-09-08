@@ -1,0 +1,17 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Temporary office and system files
+~$*
+*.tmp
+.DS_Store
+Thumbs.db
+
+# Presentation files (to be added manually later by student)
+*.pptx
+
+# Builder scripts excluded per user instruction
+build_and_execute_notebook.py
+build_presentation.py
